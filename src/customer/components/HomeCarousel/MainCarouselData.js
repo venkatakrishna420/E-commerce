@@ -1,0 +1,22 @@
+export const mainCarouselData=[
+    {
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgAfLFpa3_oYYampDyn4ls47rxytHbcqXOQ&s",
+        link:"https://www.google.com/imgres?q=carousel%20example%20in%20react&imgurl=https%3A%2F%2Fcdn.educba.com%2Facademy%2Fwp-content%2Fuploads%2F2020%2F06%2FReact-Native-Carousel.jpg&imgrefurl=https%3A%2F%2Fwww.educba.com%2Freact-native-carousel%2F&docid=2m2FwvsViA4ttM&tbnid=PVewb99l9cqmlM&vet=12ahUKEwiavPjD47KIAxWzVmwGHYqKIxQQM3oFCIABEAA..i&w=900&h=500&hcb=2&ved=2ahUKEwiavPjD47KIAxWzVmwGHYqKIxQQM3oFCIABEAA"
+    },
+    {
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXgAfLFpa3_oYYampDyn4ls47rxytHbcqXOQ&s",
+        link:"https://www.google.com/imgres?q=carousel%20example%20in%20react&imgurl=https%3A%2F%2Fbosctechlabs.com%2Fwp-content%2Fuploads%2F2023%2F02%2FResponsive-Carousel-in-ReactJS.jpg&imgrefurl=https%3A%2F%2Fbosctechlabs.com%2Fhow-to-create-a-responsive-carousel-in-react-js%2F&docid=-FoCigRZi6p0IM&tbnid=DqjM_P6xB_o6HM&vet=12ahUKEwiavPjD47KIAxWzVmwGHYqKIxQQM3oFCIYBEAA..i&w=1000&h=600&hcb=2&ved=2ahUKEwiavPjD47KIAxWzVmwGHYqKIxQQM3oFCIYBEAA"
+    },
+    {
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuMXIUTVE9avtP-5xdCHddveYRrKgRv4TnDg&s",
+        link:"C:\ecommerce-img"
+    },
+    {
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS35o2B0OI2_rqpjd6_or9VUZN_0AfyJWf1BQ&sg",
+        link:"https://www.google.com/imgres?q=carousel%20example%20in%20react&imgurl=https%3A%2F%2Ftherichpost.com%2Fwp-content%2Fuploads%2F2021%2F12%2FReactjs-Bootstrap-5-Carousel-Slider-with-Thumbnails-Working-Example.png&imgrefurl=https%3A%2F%2Ftherichpost.com%2Freactjs-bootstrap-5-carousel-slider-with-thumbnails-working-example%2F&docid=Hv9CSPfbYyzJQM&tbnid=YoctjvLE5uVaKM&vet=12ahUKEwiavPjD47KIAxWzVmwGHYqKIxQQM3oECBkQAA..i&w=1883&h=921&hcb=2&ved=2ahUKEwiavPjD47KIAxWzVmwGHYqKIxQQM3oECBkQAA"
+    },
+    {
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqpqz8bPG4StPCpUr5XW-TnpzbwSKti9_og&s",
+        link:"https://www.google.com/imgres?q=carousel%20example%20in%20react&imgurl=https%3A%2F%2Fsourcebae.com%2Fblog%2Fwp-content%2Fuploads%2F2023%2F08%2Fimage-28-1024x541-1.png&imgrefurl=https%3A%2F%2Fsourcebae.com%2Fblog%2F15-top-react-carousel-component-libraries-and-their-usage-trends%2F&docid=ZUYT6bSOJg3lLM&tbnid=lNQ25AO9EG6w4M&vet=12ahUKEwiavPjD47KIAxWzVmwGHYqKIxQQM3oECFAQAA..i&w=1024&h=541&hcb=2&ved=2ahUKEwiavPjD47KIAxWzVmwGHYqKIxQQM3oECFAQAA"
+    },
+]
